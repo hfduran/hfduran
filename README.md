@@ -15,7 +15,10 @@
 In this section, I highlight the projects in which I had practical experience in the tools I intend to use in my career and systems that development required the application 
 of engineering methods learned during my undergraduate.
 
-##[USPolis](https://www.uspolis.com.br): Classroom allocation system for universities
+## [USPolis](https://www.uspolis.com.br): Classroom allocation system for universities
+
+[Backend repo](https://github.com/PCS-Poli-USP/USPolis-DB-Migration)
+[Frontend repo](https://github.com/PCS-Poli-USP/USPolis-Admin-Frontend)
 
 An system for allocating classes and events to classrooms on a building. Currently implemented and working on buildings of POLI-USP, it has an administrative web interface for the secretaries to manage all the scheduling and allocations, and a mobile app for the students to check which classroom should they go. Specially helpfull on the start of the semesters, when all the classrooms must be allocated for the first time, and the students do not previously know their classrooms.
 
