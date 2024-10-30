@@ -42,7 +42,7 @@ Some key features I developed on the system:
 - Clean code
 - Deployment of web applications
 
-## Jewie - jewerly store management software
+## Jewie: jewerly store management software
 
 [repository](https://github.com/hfduran/jewie)
 
