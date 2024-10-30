@@ -28,7 +28,7 @@ Firstly, here is a list of some small projects I developed or helped to develop:
 
 [Frontend repo](https://github.com/PCS-Poli-USP/USPolis-Admin-Frontend)
 
-An system for allocating classes and events to classrooms on a building. Currently implemented and working on buildings of POLI-USP, it has an administrative web interface for the secretaries to manage all the scheduling and allocations, and a mobile app for the students to check which classroom should they go. Specially helpfull on the start of the semesters, when all the classrooms must be allocated for the first time, and the students do not previously know their classrooms.
+A system for allocating classes and events to classrooms on a building. Currently implemented and working on buildings of POLI-USP, it has an administrative web interface for the secretaries to manage all the scheduling and allocations, and a mobile app for the students to check which classroom should they go. Specially helpfull on the start of the semesters, when all the classrooms must be allocated for the first time, and the students do not previously know their classrooms.
 
 Some key features I developed on the system:
 - Full backend and database refactoring
