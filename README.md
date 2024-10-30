@@ -18,7 +18,7 @@ of engineering methods learned during my undergraduate.
 Firstly, here is a list of some small projects I developed or helped to develop:
 
 - [Brother in ARM](https://github.com/brunoVA101/lab-proc) : Web GDB client for an ARM architechture
-- [Devcontainer study](https://github.com/hfduran/devcontainer) : Study of Docker and Devcontainers for implementing on [USPolis project](#uspolis)
+- [Devcontainer study](https://github.com/hfduran/devcontainer) : Study of Docker and Devcontainers for implementing on [USPolis project](#uspolis-classroom-allocation-system-for-universities)
 - [Just Coding!](http://github.com/hfduran/just-coding): Repository dedicated to study and research new programming languages and techniques
 
 ## [USPolis](https://www.uspolis.com.br): Classroom allocation system for universities
