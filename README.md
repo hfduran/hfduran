@@ -18,6 +18,7 @@ of engineering methods learned during my undergraduate.
 ## [USPolis](https://www.uspolis.com.br): Classroom allocation system for universities
 
 [Backend repo](https://github.com/PCS-Poli-USP/USPolis-DB-Migration)
+
 [Frontend repo](https://github.com/PCS-Poli-USP/USPolis-Admin-Frontend)
 
 An system for allocating classes and events to classrooms on a building. Currently implemented and working on buildings of POLI-USP, it has an administrative web interface for the secretaries to manage all the scheduling and allocations, and a mobile app for the students to check which classroom should they go. Specially helpfull on the start of the semesters, when all the classrooms must be allocated for the first time, and the students do not previously know their classrooms.
@@ -48,3 +49,13 @@ Therefore, I chose to use Java, since it is a language I did not have much conta
 - Software Architechture in Java
 - Desktop Application development
 - Object Oriented development
+
+## Statistics Studies
+[repository](https://github.com/hfduran/statistics)
+
+For the Statistics classes I had on university, me and a friend decided to create a repository to code our lessons, and learn both Statistics and R language.
+
+### Key Learnings:
+- Statistics
+- R language
+- Data Analysis
