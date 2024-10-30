@@ -20,6 +20,7 @@ Firstly, here is a list of some small projects I developed or helped to develop:
 - [Brother in ARM](https://github.com/brunoVA101/lab-proc) : Web GDB client for an ARM architechture
 - [Devcontainer study](https://github.com/hfduran/devcontainer) : Study of Docker and Devcontainers for implementing on [USPolis project](#uspolis-classroom-allocation-system-for-universities)
 - [Just Coding!](http://github.com/hfduran/just-coding): Repository dedicated to study and research new programming languages and techniques
+- [Statistics studies](https://github.com/hfduran/statistics) : Repository for my learnings on Statistics classes and Data Analysis, implemented with R language
 
 ## [USPolis](https://www.uspolis.com.br): Classroom allocation system for universities
 
@@ -42,6 +43,16 @@ Some key features I developed on the system:
 - Clean code
 - Deployment of web applications
 
+## [Wilu](https://wiluapp.com): Website for mental health services
+
+Wilu was the first big project I had the pleasure to contribute on the development. It is a website dedicated to mental health services, creating an environment to ease the scheduling of appointments with lots of different professionals on the area.
+
+### Key Learings:
+- Team-based software development
+- Web development with Typescript Frameworks
+- Agile methodology (SCRUM)
+- Git best practices
+
 ## Jewie: jewerly store management software
 
 [repository](https://github.com/hfduran/jewie)
@@ -55,13 +66,3 @@ Therefore, I chose to use Java, since it is a language I did not have much conta
 - Software Architechture in Java
 - Desktop Application development
 - Object Oriented development
-
-## Statistics Studies
-[repository](https://github.com/hfduran/statistics)
-
-For the Statistics classes I had on university, me and a friend decided to create a repository to code our lessons, and learn both Statistics and R language.
-
-### Key Learnings:
-- Statistics
-- R language
-- Data Analysis
