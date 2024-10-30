@@ -34,3 +34,17 @@ Some key features I developed on the system:
 - Python frameworks for backend
 - Clean code
 - Deployment of web applications
+
+## Jewie - jewerly store management software
+
+[repository](https://github.com/hfduran/jewie)
+
+This is a personal project I started in order to learn both Class Modelling and Software Architechture implemented to a Desktop software. The reason is that I always wanted to develop a Desktop software, since I had much more contact and experience with Web Development, and I happen to know quite well about the business logic of a jewerly store, and I realized it was a good idea to try and model a software for that domain.
+
+Therefore, I chose to use Java, since it is a language I did not have much contact before, and is very important in Software Development, with the JavaFX framework.
+
+### Key Learnings:
+- Class Modeling
+- Software Architechture in Java
+- Desktop Application development
+- Object Oriented development
