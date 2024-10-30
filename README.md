@@ -45,7 +45,9 @@ Some key features I developed on the system:
 
 ## [Wilu](https://wiluapp.com): Website for mental health services
 
-Wilu was the first big project I had the pleasure to contribute on the development. It is a website dedicated to mental health services, creating an environment to ease the scheduling of appointments with lots of different professionals on the area.
+Wilu was the first big project I had the pleasure to contribute on the development. I actuated on this project during my time on the [Poli Junior](https://polijunior.com.br/), the POLI-USP Junior Enterprise. This project won an internal prize of the best project of the year.
+
+It is a website dedicated to mental health services, creating an environment to ease the scheduling of appointments with lots of different professionals of the area. 
 
 ### Key Learings:
 - Team-based software development
