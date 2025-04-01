@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 Computer Engineering Senior at Polytechnic School of the University of São Paulo (POLI-USP)
-- ️💼 I’m currently working as Software Developer Intern at BTG Pactual bank
+- ️💼 I work as SDE Intern at Amazon.
 - 💬 Here, you can find some projects I developed/contributed to throughout my career!
 
 # Contact me!
