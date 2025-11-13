@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 Computer Engineering Senior at Polytechnic School of the University of São Paulo (POLI-USP)
-- ️💼 I work as SDE Intern at Amazon.
+- ️💼 I work as SDE at Amazon.
 - 💬 Here, you can find some projects I developed/contributed to throughout my career!
 
 # Contact me!
